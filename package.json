@@ -1,6 +1,5 @@
 {
   "engines" : { "node" : ">=6" },
-  "name": "OneBitExchange",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
